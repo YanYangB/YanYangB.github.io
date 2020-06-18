@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YY&#39;s Notes</title>
+  <icon>https://yanyangb.github.io/icon.png</icon>
+  <subtitle>在一声声靓仔中迷失自我</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://yanyangb.github.io/"/>
+  <updated>2020-06-18T08:48:19.213Z</updated>
+  <id>https://yanyangb.github.io/</id>
+  
+  <author>
+    <name>YAN Yang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>conda常用命令</title>
+    <link href="https://yanyangb.github.io/2019/11/11/conda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+    <id>https://yanyangb.github.io/2019/11/11/conda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</id>
+    <published>2019-11-11T11:14:45.000Z</published>
+    <updated>2020-06-18T08:48:19.213Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;环境相关&quot;&gt;&lt;a href=&quot;#环境相关&quot; class=&quot;headerlink&quot; title=&quot;环境相关&quot;&gt;&lt;/a&gt;环境相关&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;查看已有环境&lt;br&gt;&lt;code&gt;conda env list&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;新建环境&lt;br&gt;&lt;code&gt;conda create -n env_name [python=3.6]&lt;/code&gt;&lt;br&gt;新建一个名为&lt;code&gt;env_name&lt;/code&gt;的环境，其&lt;code&gt;python&lt;/code&gt;版本为3.6&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;进入环境（对于conda 4.xx）&lt;br&gt;&lt;code&gt;conda activate env_name&lt;/code&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Tech" scheme="https://yanyangb.github.io/categories/Tech/"/>
+    
+      <category term="Linux" scheme="https://yanyangb.github.io/categories/Tech/Linux/"/>
+    
+    
+      <category term="Linux" scheme="https://yanyangb.github.io/tags/Linux/"/>
+    
+      <category term="conda" scheme="https://yanyangb.github.io/tags/conda/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu无root安装软件</title>
+    <link href="https://yanyangb.github.io/2019/10/01/Ubuntu%E6%97%A0root%E5%AE%89%E8%A3%85%E8%BD%AF%E4%BB%B6/"/>
+    <id>https://yanyangb.github.io/2019/10/01/Ubuntu%E6%97%A0root%E5%AE%89%E8%A3%85%E8%BD%AF%E4%BB%B6/</id>
+    <published>2019-10-01T04:05:19.000Z</published>
+    <updated>2020-06-18T08:48:48.617Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Linux下非root用户安装软件的一般流程&quot;&gt;&lt;a href=&quot;#Linux下非root用户安装软件的一般流程&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Tech" scheme="https://yanyangb.github.io/categories/Tech/"/>
+    
+      <category term="Linux" scheme="https://yanyangb.github.io/categories/Tech/Linux/"/>
+    
+    
+      <category term="Linux" scheme="https://yanyangb.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Step up to Linux</title>
+    <link href="https://yanyangb.github.io/2019/09/27/Step-up-to-Linux/"/>
+    <id>https://yanyangb.github.io/2019/09/27/Step-up-to-Linux/</id>
+    <published>2019-09-27T11:35:32.000Z</published>
+    <updated>2020-06-18T08:48:35.037Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;记录Linux的安装与配置过程&quot;&gt;&lt;a href=&quot;#记录Linux的安装与配置过程&quot; class=&quot;headerlink&quot; title=&quot;记录Linux的安装与配置过程&quot;&gt;&lt;/a&gt;记录Linux的安装与配置过程&lt;/h1&gt;&lt;p&gt;安装为Ubuntu单系统&lt;/p&gt;
+&lt;h3 id=&quot;1-准备&quot;&gt;&lt;a href=&quot;#1-准备&quot; class=&quot;headerlink&quot; title=&quot;1.准备&quot;&gt;&lt;/a&gt;1.准备&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;下载&lt;a href=&quot;https://www.ubuntu.com/index_kylin&quot;&gt;Ubuntu&lt;/a&gt;镜像, 建议下载LTS版本。&lt;br&gt;(官网下载速度较慢时考虑&lt;a href=&quot;https://mirrors.tuna.tsinghua.edu.cn/&quot;&gt;清华镜像&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;制作启动盘, 建议使用&lt;a href=&quot;https://rufus.ie/&quot;&gt;Rufus&lt;/a&gt;,操作简单，在制作时要格式化Ｕ盘，先做好Ｕ盘备份工作。&lt;/li&gt;
+&lt;li&gt;若要安装双系统，还要清理出一块磁盘空间，参考&lt;a href=&quot;https://zhuanlan.zhihu.com/p/35970220&quot;&gt;知乎文章&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="Tech" scheme="https://yanyangb.github.io/categories/Tech/"/>
+    
+      <category term="Linux" scheme="https://yanyangb.github.io/categories/Tech/Linux/"/>
+    
+    
+      <category term="Linux" scheme="https://yanyangb.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+</feed>
