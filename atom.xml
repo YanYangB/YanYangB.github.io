@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yanyangb.github.io/"/>
-  <updated>2020-06-19T00:10:34.797Z</updated>
+  <updated>2020-07-05T04:16:50.253Z</updated>
   <id>https://yanyangb.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://yanyangb.github.io/2019/11/11/conda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
     <id>https://yanyangb.github.io/2019/11/11/conda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</id>
     <published>2019-11-11T11:14:45.000Z</published>
-    <updated>2020-06-19T00:10:34.797Z</updated>
+    <updated>2020-07-05T04:16:50.253Z</updated>
     
     <summary type="html">
     
@@ -35,14 +35,12 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://yanyangb.github.io/categories/Tech/"/>
+      <category term="conda" scheme="https://yanyangb.github.io/categories/conda/"/>
     
-      <category term="Linux" scheme="https://yanyangb.github.io/categories/Tech/Linux/"/>
-    
-    
-      <category term="Linux" scheme="https://yanyangb.github.io/tags/Linux/"/>
     
       <category term="conda" scheme="https://yanyangb.github.io/tags/conda/"/>
+    
+      <category term="Linux" scheme="https://yanyangb.github.io/tags/Linux/"/>
     
   </entry>
   
@@ -51,7 +49,7 @@
     <link href="https://yanyangb.github.io/2019/10/01/Ubuntu%E6%97%A0root%E5%AE%89%E8%A3%85%E8%BD%AF%E4%BB%B6/"/>
     <id>https://yanyangb.github.io/2019/10/01/Ubuntu%E6%97%A0root%E5%AE%89%E8%A3%85%E8%BD%AF%E4%BB%B6/</id>
     <published>2019-10-01T04:05:19.000Z</published>
-    <updated>2020-06-18T23:56:50.305Z</updated>
+    <updated>2020-07-05T04:16:25.997Z</updated>
     
     <summary type="html">
     
@@ -66,9 +64,7 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://yanyangb.github.io/categories/Tech/"/>
-    
-      <category term="Linux" scheme="https://yanyangb.github.io/categories/Tech/Linux/"/>
+      <category term="Linux" scheme="https://yanyangb.github.io/categories/Linux/"/>
     
     
       <category term="Linux" scheme="https://yanyangb.github.io/tags/Linux/"/>
@@ -80,7 +76,7 @@
     <link href="https://yanyangb.github.io/2019/09/27/Step-up-to-Linux/"/>
     <id>https://yanyangb.github.io/2019/09/27/Step-up-to-Linux/</id>
     <published>2019-09-27T11:35:32.000Z</published>
-    <updated>2020-06-18T09:20:49.041Z</updated>
+    <updated>2020-07-05T04:16:38.113Z</updated>
     
     <summary type="html">
     
@@ -94,9 +90,7 @@
     </summary>
     
     
-      <category term="Tech" scheme="https://yanyangb.github.io/categories/Tech/"/>
-    
-      <category term="Linux" scheme="https://yanyangb.github.io/categories/Tech/Linux/"/>
+      <category term="Linux" scheme="https://yanyangb.github.io/categories/Linux/"/>
     
     
       <category term="Linux" scheme="https://yanyangb.github.io/tags/Linux/"/>
