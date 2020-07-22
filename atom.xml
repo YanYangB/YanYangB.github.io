@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yanyangb.github.io/"/>
-  <updated>2020-07-05T04:16:50.253Z</updated>
+  <updated>2020-07-22T10:10:22.360Z</updated>
   <id>https://yanyangb.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://yanyangb.github.io/2019/11/11/conda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
     <id>https://yanyangb.github.io/2019/11/11/conda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</id>
     <published>2019-11-11T11:14:45.000Z</published>
-    <updated>2020-07-05T04:16:50.253Z</updated>
+    <updated>2020-07-22T10:10:22.360Z</updated>
     
     <summary type="html">
     
@@ -38,9 +38,9 @@
       <category term="conda" scheme="https://yanyangb.github.io/categories/conda/"/>
     
     
-      <category term="conda" scheme="https://yanyangb.github.io/tags/conda/"/>
-    
       <category term="Linux" scheme="https://yanyangb.github.io/tags/Linux/"/>
+    
+      <category term="conda" scheme="https://yanyangb.github.io/tags/conda/"/>
     
   </entry>
   
@@ -49,7 +49,7 @@
     <link href="https://yanyangb.github.io/2019/10/01/Ubuntu%E6%97%A0root%E5%AE%89%E8%A3%85%E8%BD%AF%E4%BB%B6/"/>
     <id>https://yanyangb.github.io/2019/10/01/Ubuntu%E6%97%A0root%E5%AE%89%E8%A3%85%E8%BD%AF%E4%BB%B6/</id>
     <published>2019-10-01T04:05:19.000Z</published>
-    <updated>2020-07-05T04:16:25.997Z</updated>
+    <updated>2020-07-05T04:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -76,11 +76,11 @@
     <link href="https://yanyangb.github.io/2019/09/27/Step-up-to-Linux/"/>
     <id>https://yanyangb.github.io/2019/09/27/Step-up-to-Linux/</id>
     <published>2019-09-27T11:35:32.000Z</published>
-    <updated>2020-07-05T04:16:38.113Z</updated>
+    <updated>2020-07-22T11:22:41.903Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;记录Linux的安装与配置过程&quot;&gt;&lt;a href=&quot;#记录Linux的安装与配置过程&quot; class=&quot;headerlink&quot; title=&quot;记录Linux的安装与配置过程&quot;&gt;&lt;/a&gt;记录Linux的安装与配置过程&lt;/h1&gt;&lt;p&gt;安装为Ubuntu单系统&lt;/p&gt;
+      &lt;h1 id=&quot;记录Linux的安装与Deep-Learning配置过程&quot;&gt;&lt;a href=&quot;#记录Linux的安装与Deep-Learning配置过程&quot; class=&quot;headerlink&quot; title=&quot;记录Linux的安装与Deep Learning配置过程&quot;&gt;&lt;/a&gt;记录Linux的安装与Deep Learning配置过程&lt;/h1&gt;&lt;p&gt;安装为Ubuntu单系统&lt;/p&gt;
 &lt;h3 id=&quot;1-准备&quot;&gt;&lt;a href=&quot;#1-准备&quot; class=&quot;headerlink&quot; title=&quot;1.准备&quot;&gt;&lt;/a&gt;1.准备&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;下载&lt;a href=&quot;https://www.ubuntu.com/index_kylin&quot;&gt;Ubuntu&lt;/a&gt;镜像, 建议下载LTS版本。&lt;br&gt;(官网下载速度较慢时考虑&lt;a href=&quot;https://mirrors.tuna.tsinghua.edu.cn/&quot;&gt;清华镜像&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;制作启动盘, 建议使用&lt;a href=&quot;https://rufus.ie/&quot;&gt;Rufus&lt;/a&gt;,操作简单，在制作时要格式化Ｕ盘，先做好Ｕ盘备份工作。&lt;/li&gt;
