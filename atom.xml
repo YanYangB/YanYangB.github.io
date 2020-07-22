@@ -76,11 +76,11 @@
     <link href="https://yanyangb.github.io/2019/09/27/Step-up-to-Linux/"/>
     <id>https://yanyangb.github.io/2019/09/27/Step-up-to-Linux/</id>
     <published>2019-09-27T11:35:32.000Z</published>
-    <updated>2020-07-22T11:22:41.903Z</updated>
+    <updated>2020-07-22T12:39:09.104Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;记录Linux的安装与Deep-Learning配置过程&quot;&gt;&lt;a href=&quot;#记录Linux的安装与Deep-Learning配置过程&quot; class=&quot;headerlink&quot; title=&quot;记录Linux的安装与Deep Learning配置过程&quot;&gt;&lt;/a&gt;记录Linux的安装与Deep Learning配置过程&lt;/h1&gt;&lt;p&gt;安装为Ubuntu单系统&lt;/p&gt;
+      &lt;h2 id=&quot;记录Linux的安装与Deep-Learning配置过程&quot;&gt;&lt;a href=&quot;#记录Linux的安装与Deep-Learning配置过程&quot; class=&quot;headerlink&quot; title=&quot;记录Linux的安装与Deep Learning配置过程&quot;&gt;&lt;/a&gt;记录Linux的安装与Deep Learning配置过程&lt;/h2&gt;&lt;p&gt;安装为Ubuntu单系统&lt;/p&gt;
 &lt;h3 id=&quot;1-准备&quot;&gt;&lt;a href=&quot;#1-准备&quot; class=&quot;headerlink&quot; title=&quot;1.准备&quot;&gt;&lt;/a&gt;1.准备&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;下载&lt;a href=&quot;https://www.ubuntu.com/index_kylin&quot;&gt;Ubuntu&lt;/a&gt;镜像, 建议下载LTS版本。&lt;br&gt;(官网下载速度较慢时考虑&lt;a href=&quot;https://mirrors.tuna.tsinghua.edu.cn/&quot;&gt;清华镜像&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;制作启动盘, 建议使用&lt;a href=&quot;https://rufus.ie/&quot;&gt;Rufus&lt;/a&gt;,操作简单，在制作时要格式化Ｕ盘，先做好Ｕ盘备份工作。&lt;/li&gt;
