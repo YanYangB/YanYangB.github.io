@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yanyangb.github.io/"/>
-  <updated>2020-09-27T15:06:20.478Z</updated>
+  <updated>2020-09-28T13:34:54.235Z</updated>
   <id>https://yanyangb.github.io/</id>
   
   <author>
@@ -21,17 +21,11 @@
     <link href="https://yanyangb.github.io/2020/09/27/SSH-Tunnel-Local-and-Remote-Port-Forwarding/"/>
     <id>https://yanyangb.github.io/2020/09/27/SSH-Tunnel-Local-and-Remote-Port-Forwarding/</id>
     <published>2020-09-27T14:11:35.000Z</published>
-    <updated>2020-09-27T15:06:20.478Z</updated>
+    <updated>2020-09-28T13:34:54.235Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;About-SSH&quot;&gt;&lt;a href=&quot;#About-SSH&quot; class=&quot;headerlink&quot; title=&quot;About SSH&quot;&gt;&lt;/a&gt;About SSH&lt;/h2&gt;&lt;p&gt;ssh stands for &lt;em&gt;Secure Shell&lt;/em&gt;. It
-        
-      
+      &lt;h2 id=&quot;About-SSH&quot;&gt;&lt;a href=&quot;#About-SSH&quot; class=&quot;headerlink&quot; title=&quot;About SSH&quot;&gt;&lt;/a&gt;About SSH&lt;/h2&gt;&lt;p&gt;ssh stands for &lt;em&gt;Secure Shell&lt;/em&gt;. It is a protocol used to securely connect to a remote server/system. ssh is secure in the sense that it transfers the data in encrypted form between the host and the client. For deep learning researchers, they usually use ssh to login their remote servers which have high-performance GPUs to train models.
     
     </summary>
     
