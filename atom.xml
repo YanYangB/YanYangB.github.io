@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yanyangb.github.io/"/>
-  <updated>2020-09-28T13:34:54.235Z</updated>
+  <updated>2020-09-28T13:38:25.287Z</updated>
   <id>https://yanyangb.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://yanyangb.github.io/2020/09/27/SSH-Tunnel-Local-and-Remote-Port-Forwarding/"/>
     <id>https://yanyangb.github.io/2020/09/27/SSH-Tunnel-Local-and-Remote-Port-Forwarding/</id>
     <published>2020-09-27T14:11:35.000Z</published>
-    <updated>2020-09-28T13:34:54.235Z</updated>
+    <updated>2020-09-28T13:38:25.287Z</updated>
     
     <summary type="html">
     
@@ -30,7 +30,7 @@
     </summary>
     
     
-      <category term="SSH" scheme="https://yanyangb.github.io/categories/SSH/"/>
+      <category term="Linux" scheme="https://yanyangb.github.io/categories/Linux/"/>
     
     
       <category term="SSH" scheme="https://yanyangb.github.io/tags/SSH/"/>
@@ -44,7 +44,7 @@
     <link href="https://yanyangb.github.io/2019/11/11/conda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
     <id>https://yanyangb.github.io/2019/11/11/conda%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</id>
     <published>2019-11-11T11:14:45.000Z</published>
-    <updated>2020-09-25T09:07:29.060Z</updated>
+    <updated>2020-09-28T13:38:18.963Z</updated>
     
     <summary type="html">
     
@@ -58,7 +58,7 @@
     </summary>
     
     
-      <category term="conda" scheme="https://yanyangb.github.io/categories/conda/"/>
+      <category term="Linux" scheme="https://yanyangb.github.io/categories/Linux/"/>
     
     
       <category term="Linux" scheme="https://yanyangb.github.io/tags/Linux/"/>
