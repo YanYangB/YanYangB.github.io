@@ -10761,7 +10761,7 @@ article.article .article-meta {
 }
 article.article .content {
   word-wrap: break-word;
-  font-size: 1.1rem;
+  font-size: 1.35rem;
 }
 article.article .content h1 {
   font-size: 1.75em;
@@ -10789,7 +10789,7 @@ article.article .content code {
 article.article .content blockquote.pullquote {
   float: right;
   max-width: 50%;
-  font-size: 1.15rem;
+  font-size: 1.2rem;
   position: relative;
 }
 article.article .content blockquote footer strong + cite {
